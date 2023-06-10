@@ -1,5 +1,6 @@
 import React, { Fragment } from "react";
 import Menu from "./Menu";
+import Footer from "./Footer";
 
 
 function About() {
@@ -59,7 +60,7 @@ function About() {
                 </section>
             </main>
 
-            <footer class="footer">
+            {/* <footer class="footer">
                 <div class="container">
                     <div class="social-media">
                         <a href="https://www.facebook.com/deshcareer" class=""><i class="fab fa-facebook"></i></a>
@@ -104,7 +105,9 @@ function About() {
                         </div>
                     </div>
                 </div>
-            </footer>
+            </footer> */}
+
+            <Footer />
         </Fragment>
         // <div>
         //     <h1>Index</h1>
