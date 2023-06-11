@@ -15,7 +15,7 @@ function Menu() {
                     <div className="footer-container">
                         <div className="footer-wrapper">
                             <div className="pb-2">
-                                <a href="index.html"> <img src="logo/short-logo.png" alt="" style={{
+                                <a href=""> <img src="logo/short-logo.png" alt="" style={{
                                     width: "200px"
                                 }} /></a>
                             </div>
