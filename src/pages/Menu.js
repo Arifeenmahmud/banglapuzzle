@@ -9,7 +9,7 @@ function Menu() {
                     <div className="container">
                         <Link to="/" className="navbar-brand d-flex align-items-center">
 
-                            <img src="https://deshcareer.com/logo/short-logo.png" alt="" style={{
+                            <img src="./logo/short-logo.png" alt="" style={{
                                 width: "200px"
                             }} />
 
